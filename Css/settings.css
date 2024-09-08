@@ -1,0 +1,47 @@
+#settingsDropdown::after {
+    display: none;
+}
+#navbar.dark-mode-navbar {
+    background-color: rgb(51,51,51) !important;
+}
+#navbar.dark-mode-navbar .dropdown-menu {
+    background-color: rgb(51,51,51) !important;
+}
+#navbar.dark-mode-navbar .dropdown-menu .dropdown-item:hover {
+    background-color: lightgrey !important;
+}
+#navbar.dark-mode-navbar .dropdown-menu .dropdown-item {
+    color: grey !important;
+}
+#navbar.dark-mode-navbar .navbar-nav .nav-link {
+    color: grey !important;
+}
+#navbar.dark-mode-navbar .form-control {
+    border-color: grey !important;
+    color: grey !important;
+    background-color: rgb(51,51,51) !important;
+}
+#navbar.dark-mode-navbar .form-control::placeholder {
+    color: grey !important;
+}
+#navbar.dark-mode-navbar #searchResults a {
+    color: grey !important;
+}
+#navbar.dark-mode-navbar #searchResults a {
+    border-color: black !important;
+    background-color: rgb(51,51,51) !important;
+}
+.dark-mode-text {
+    color: grey !important;
+}
+footer.dark-mode-footer {
+    background-color: rgb(51,51,51) !important;
+    color: grey !important;
+}
+.dark-mode-text-body{
+    background-color: rgb(51,51,51);
+}
+.biggerText {
+    font-size: 24px;
+}
+
